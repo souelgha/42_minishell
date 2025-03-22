@@ -10,4 +10,10 @@ create a command interpreter that mimics the behavior of bash.
 ## build and start
 run 
 ``` bash
-make ```
+make
+```
+then you can run the program
+``` bash
+./minishell
+```
+
