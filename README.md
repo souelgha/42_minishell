@@ -8,4 +8,5 @@ create a command interpreter that mimics the behavior of bash.
  -  We also have a number of built-in functions, like cd, echo, env, exit, export, pwd and unset.
 
 # build aand start
-''' ./make '''
+run 
+``` ./make ```
